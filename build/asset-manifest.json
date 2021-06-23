@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c2c388c.chunk.css",
-    "main.js": "/static/js/main.3d6f677e.chunk.js",
-    "main.js.map": "/static/js/main.3d6f677e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.04fc9d36.js",
-    "runtime-main.js.map": "/static/js/runtime-main.04fc9d36.js.map",
-    "static/css/2.8d152003.chunk.css": "/static/css/2.8d152003.chunk.css",
-    "static/js/2.3e352ec3.chunk.js": "/static/js/2.3e352ec3.chunk.js",
-    "static/js/2.3e352ec3.chunk.js.map": "/static/js/2.3e352ec3.chunk.js.map",
-    "static/js/3.20c11c2b.chunk.js": "/static/js/3.20c11c2b.chunk.js",
-    "static/js/3.20c11c2b.chunk.js.map": "/static/js/3.20c11c2b.chunk.js.map",
+    "main.css": "/static/css/main.8cd55e57.chunk.css",
+    "main.js": "/static/js/main.d1ddc190.chunk.js",
+    "main.js.map": "/static/js/main.d1ddc190.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1be6b08e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1be6b08e.js.map",
+    "static/css/2.50dfee0a.chunk.css": "/static/css/2.50dfee0a.chunk.css",
+    "static/js/2.f90da57e.chunk.js": "/static/js/2.f90da57e.chunk.js",
+    "static/js/2.f90da57e.chunk.js.map": "/static/js/2.f90da57e.chunk.js.map",
+    "static/js/3.31da2e83.chunk.js": "/static/js/3.31da2e83.chunk.js",
+    "static/js/3.31da2e83.chunk.js.map": "/static/js/3.31da2e83.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.8d152003.chunk.css.map": "/static/css/2.8d152003.chunk.css.map",
-    "static/css/main.6c2c388c.chunk.css.map": "/static/css/main.6c2c388c.chunk.css.map",
-    "static/js/2.3e352ec3.chunk.js.LICENSE.txt": "/static/js/2.3e352ec3.chunk.js.LICENSE.txt",
+    "static/css/2.50dfee0a.chunk.css.map": "/static/css/2.50dfee0a.chunk.css.map",
+    "static/css/main.8cd55e57.chunk.css.map": "/static/css/main.8cd55e57.chunk.css.map",
+    "static/js/2.f90da57e.chunk.js.LICENSE.txt": "/static/js/2.f90da57e.chunk.js.LICENSE.txt",
     "static/media/camera.5f9c4e38.svg": "/static/media/camera.5f9c4e38.svg",
     "static/media/check.567a9688.svg": "/static/media/check.567a9688.svg",
     "static/media/golden-hands.eb144138.jpg": "/static/media/golden-hands.eb144138.jpg",
@@ -33,10 +33,10 @@
     "static/media/vinayak.895319ab.jpg": "/static/media/vinayak.895319ab.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.04fc9d36.js",
-    "static/css/2.8d152003.chunk.css",
-    "static/js/2.3e352ec3.chunk.js",
-    "static/css/main.6c2c388c.chunk.css",
-    "static/js/main.3d6f677e.chunk.js"
+    "static/js/runtime-main.1be6b08e.js",
+    "static/css/2.50dfee0a.chunk.css",
+    "static/js/2.f90da57e.chunk.js",
+    "static/css/main.8cd55e57.chunk.css",
+    "static/js/main.d1ddc190.chunk.js"
   ]
 }
